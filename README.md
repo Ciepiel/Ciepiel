@@ -17,9 +17,9 @@
 
 ---
 ### 👩🏼‍💻 About Me :
-I am a Data Analyst & aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+I am a Data Analyst & an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- 💡 I'm proactive & curious, focused on using data as a tool to formulate valuable insights and conclusions.
+- 💡 I'm proactive & curious, focused on using data as a tool to formulate valuable insights and drive decision making.
 - 📚 I'm a fan of the "learning by doing" approach and a hands-on learner.
 - 🌱 In my free time, you may find me outdoors with my dog or deepening my knowledge of statistics and its tools.
 
